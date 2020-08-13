@@ -1,0 +1,13 @@
+.mainWrap {
+    width: 768px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .mainWrap {
+        width: 100%;
+        padding: 0 15px;
+    }
+}
